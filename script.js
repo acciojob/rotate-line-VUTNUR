@@ -1,6 +1,7 @@
 //your JS code here. If required.
 let div=document.createElement("div");
 div.id="line"
+div.style.position="absolute"
 div.style.width="200px"
 div.style.height="2px"
 div.style.backgroundColor="black"
